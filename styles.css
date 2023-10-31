@@ -165,6 +165,9 @@ body{
     font-family: 'Hanken Grotesk', sans-serif;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
+button:hover{
+    background-image: linear-gradient( hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+}
 .bar .result{
     color: hsl(224, 30%, 27%);
 }
